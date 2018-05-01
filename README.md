@@ -3,10 +3,12 @@
 
 ## 开发环境
 
-#### Node.js: `8.9.1`
-#### MongoDB: `3.4.10`
-#### Express: `4.16.2`
-
+### Node.js: `8.9.1`
+[nodejs安装及使用](https://nodejs.org/en/)
+### MongoDB: `3.4.10`
+[mongodb安装及使用](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
+### Express: `4.16.2`
+[express安装及使用](http://expressjs.com/)
 ## 使用
 
 ### 1.下载需要安装的依赖包
@@ -15,13 +17,13 @@
 $ npm install  // 或者使用  yarn
 ```
 
-### 启动mongodb数据库
+### 2.启动mongodb数据库
 
 ```javascript
 $ mongodb
 ```
 
-### 运行
+### 3.运行
 
 ```javascript
 $ node index
